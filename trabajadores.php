@@ -2,6 +2,7 @@
 Código trabajador: <input name="codigo">
 <button>Buscar</button>
 </form>
+
 <?php
 $trabajadores=[
 "T001"=>["nombre"=>"Ana Torres","cargo"=>"Administrador","sueldo"=>2500],
